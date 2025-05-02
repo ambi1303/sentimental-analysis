@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+joblib
+pandas
+numpy
+scikit-learn
+xgboost
